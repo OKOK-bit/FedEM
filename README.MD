@@ -34,7 +34,7 @@ The main entry point is `main_em.py`.
 **Run a single experiment of FedSGD:
 
 ```bash
-python main.py --dataset mnist  --gpu 0 **
+python main.py --dataset mnist  --gpu 0 
 ```
 
 **Run a single experiment of FedEM:
